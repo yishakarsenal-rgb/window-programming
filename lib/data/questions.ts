@@ -1112,7 +1112,6 @@ Console.WriteLine(f(5));`,
     difficulty: "easy",
   },
 
-  // ---------------- wpf-databinding ----------------
   {
     id: "wp-001",
     moduleId: "wpf-databinding",
