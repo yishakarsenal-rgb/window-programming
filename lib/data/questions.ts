@@ -1166,7 +1166,6 @@ Console.WriteLine(f(5));`,
     difficulty: "easy",
   },
 
-  // ---------------- async-tasks ----------------
   {
     id: "a-001",
     moduleId: "async-tasks",
