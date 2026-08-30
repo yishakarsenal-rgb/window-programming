@@ -602,7 +602,6 @@ obj1.DoSomething();`,
     difficulty: "medium",
   },
 
-  // ---------------- delegates-events ----------------
   {
     id: "d-001",
     moduleId: "delegates-events",
