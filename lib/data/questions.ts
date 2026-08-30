@@ -717,7 +717,6 @@ Console.WriteLine(f(5));`,
     difficulty: "easy",
   },
 
-  // ---------------- winforms-controls ----------------
   {
     id: "w-001",
     moduleId: "winforms-controls",
