@@ -895,7 +895,6 @@ Console.WriteLine(f(5));`,
     difficulty: "easy",
   },
 
-  // ---------------- exception-validation ----------------
   {
     id: "e-001",
     moduleId: "exception-validation",
