@@ -422,7 +422,6 @@ Console.Write(Convert.ToString(x));`,
     difficulty: "medium",
   },
 
-  // ---------------- oop ----------------
   {
     id: "o-001",
     moduleId: "oop",
