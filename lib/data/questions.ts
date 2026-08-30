@@ -1011,7 +1011,6 @@ Console.WriteLine(f(5));`,
     difficulty: "hard",
   },
 
-  // ---------------- file-database ----------------
   {
     id: "fd-001",
     moduleId: "file-database",
