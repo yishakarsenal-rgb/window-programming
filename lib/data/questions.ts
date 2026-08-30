@@ -208,7 +208,6 @@ export const questions: Question[] = [
     difficulty: "medium",
   },
 
-  // ---------------- csharp-syntax ----------------
   {
     id: "c-001",
     moduleId: "csharp-syntax",
