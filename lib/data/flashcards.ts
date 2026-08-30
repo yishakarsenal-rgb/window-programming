@@ -407,7 +407,6 @@ export const flashcards: Flashcard[] = [
       "A SQL command using placeholders (e.g. @name) filled via SqlParameter, preventing SQL injection.",
   },
 
-  // wpf-databinding
   {
     id: "fc-58",
     moduleId: "wpf-databinding",
@@ -437,7 +436,6 @@ export const flashcards: Flashcard[] = [
       "A special WPF property type that supports data binding, styling, animation, and default value inheritance.",
   },
 
-  // async-tasks
   {
     id: "fc-62",
     moduleId: "async-tasks",
