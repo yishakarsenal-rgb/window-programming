@@ -13,9 +13,7 @@ export default function DashboardPage() {
   return (
     <div className="mx-auto flex max-w-6xl flex-col gap-10 px-4 py-8 md:px-8 md:py-12">
       <section className="flex flex-col gap-4 border-b border-border pb-8">
-        <span className="font-mono text-xs uppercase tracking-widest text-accent">
-          {"// Unity University · UUFWP · Window Programming"}
-        </span>
+        <span className="font-mono text-xs uppercase tracking-widest text-accent"></span>
         <h1 className="text-3xl font-semibold tracking-tight text-balance md:text-4xl">
           Window Programming — Exam Prep
         </h1>
