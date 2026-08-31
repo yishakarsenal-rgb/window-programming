@@ -17,7 +17,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "WinProg// Exam Prep — Window Programming",
+  title: "Window Programming",
   description:
     "Exam prep and learning portal for Window Programming - past-exam simulator, chapter quizzes, flashcards, module notes, and a cheat sheet.",
   icons: {
