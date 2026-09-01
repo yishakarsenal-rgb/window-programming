@@ -18,7 +18,7 @@ function Brand() {
       <TerminalSquare className="h-5 w-5 text-accent" strokeWidth={2} />
       <div className="flex flex-col leading-none">
         <span className="font-mono text-sm font-semibold tracking-tight text-foreground">
-          winprog
+          window prog
         </span>
         <span className="text-[10px] uppercase tracking-widest text-muted-foreground">
           exam prep
