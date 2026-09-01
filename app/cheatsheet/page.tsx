@@ -9,8 +9,8 @@ export default function CheatSheetPage() {
           Cheat Sheet
         </h1>
         <p className="max-w-2xl text-sm leading-relaxed text-muted-foreground">
-          Every keyword, syntax pattern, and code snippet across all nine
-          modules — condensed to one page for last-minute review.
+          Every keyword, syntax pattern and code snippet across all nine modules
+          — condensed to one page for last-minute review.
         </p>
       </div>
 
